@@ -1,7 +1,7 @@
 import streamlit as st
 from streamlit_chat import message
 from bardapi import Bard
-keyVal = 'cggvfMlcnucKxCbME4EInKyDaDn9xpj1MsQnh_iUF1ZlYu9EXNeEhdDord5fEwd2BBav-A.'
+keyVal = 'cggrL54TXgpHsEAM8UGMytnbg_Wr-iHU6Xjv2KjvfTT0zT2aR7RXOpxPrX6xRzCed4O1yg.'
 bard = Bard(token=keyVal)
 
 st.set_page_config(page_title="AI BOT")
